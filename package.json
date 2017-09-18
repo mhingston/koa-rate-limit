@@ -1,0 +1,16 @@
+{
+  "name": "koa-rate-limit",
+  "version": "1.0.0",
+  "description": "Simple rate limiting for Koa2, supports clustered apps, blacklisting and whitelisting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Miles Hingston <miles@bitshift.cc>",
+  "license": "MIT",
+  "dependencies": {
+    "netmask": "^1.0.6",
+    "uuid": "^3.1.0"
+  }
+}
